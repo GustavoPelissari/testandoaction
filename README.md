@@ -1,5 +1,6 @@
 # testandoaction
 ## Changelog
+- 09/10/2025 21:55 - Corrigindo erro da data a hora do Brasil
 - 2025-10-10 00:12 - Testando atualização
 - 2025-10-10 00:08 - Add GitHub Actions workflow to update README
 
