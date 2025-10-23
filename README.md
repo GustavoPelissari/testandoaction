@@ -1,5 +1,6 @@
 # testandoaction
 ## Changelog
+- 23/10/2025 08:16 - Adicionando arquivo calcular 2+2
 - 23/10/2025 08:08 - Adicionando arquivo style.css
 - 23/10/2025 08:07 - Adicionando arquivo script.js
 - 09/10/2025 21:55 - Corrigindo erro da data a hora do Brasil
